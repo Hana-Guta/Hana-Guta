@@ -1,9 +1,9 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Hana Guta</h1>
+<h1 align="center">Hi 👋, I'm Hana </h1>
 <h3 align="center">A passionate fullStack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/woman-as-software-developer-programmer-engaged-coding-server-side-framework-computer-vector-illustration-female-205941691.jpg" >
 
-- 🌱 I’m currently learning **Golang , NextJs**
+- 🌱 I’m currently learning **Golang **
 
 - 💬 Ask me about **MERN Stack , Python**
 
